@@ -1,3 +1,9 @@
+<style>
+    img {
+        height : 200px;
+        width : 250px;
+    }
+</style>
 # Lesson 28
 ### 응용계층의 역할
 클라이언트 = 서비스를 요청하는 요청하는 측
@@ -24,7 +30,7 @@ SMTP = Simple Mail Protocol
 POP3 = Post Office Protocol version
 DNS = Domain Name System
 ```
-![](https://images.velog.io/images/sicksong/post/4bd5d9b5-f0f6-4b05-ad9c-e29367c257e5/image.png)
+<img src='https://images.velog.io/images/sicksong/post/4bd5d9b5-f0f6-4b05-ad9c-e29367c257e5/image.png'>
 
 # Lesson 29
 ### 웹 서버의 구조(웹 사이트 접속)
@@ -116,4 +122,3 @@ IMAP의 경우 이메일 서버와 동기화되는 방식이기에 스마트폰,
 
 메일 서버간에도 SMTP를 사용하여 메일을 전송한다.
 메일 서버에는 메일 박스가 있는데 이곳에 메일이 보관되는 것이다.
-
