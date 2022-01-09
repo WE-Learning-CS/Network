@@ -1,9 +1,4 @@
-<style>
-    img {
-        height : 200px;
-        width : 250px;
-    }
-</style>
+
 # Lesson 28
 ### 응용계층의 역할
 클라이언트 = 서비스를 요청하는 요청하는 측<br>
