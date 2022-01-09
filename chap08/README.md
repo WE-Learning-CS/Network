@@ -17,7 +17,7 @@
 
 ### 2. 컴퓨터의 데이터가 전기 신호로 변환되는 과정
 
-![image](https://user-images.githubusercontent.com/87896537/147571071-3bdd3243-09f2-4d3e-928f-8ea374e8c559.png)
+<img src="https://user-images.githubusercontent.com/87896537/147571071-3bdd3243-09f2-4d3e-928f-8ea374e8c559.png" width="500" height="300">
 
 
  먼저 웹 사이트에 접속해야 하므로 **응용 계층**에서 시작한다. <br>
@@ -65,7 +65,8 @@
 
 ## 스위치와 라우터에서의 데이터 전달과 처리
 
-![image](https://user-images.githubusercontent.com/87896537/147571007-799a6369-a102-415e-9c5a-8f0cc1089889.png)
+<img src="https://user-images.githubusercontent.com/87896537/147571007-799a6369-a102-415e-9c5a-8f0cc1089889.png" width="400" height="400">
+
 
 ### 1. 스위치에서의 데이터 전달과 처리
 스위치 A는 데이터 링크 계층에서 데이터를 전기 신호로 변환하여 라우터 A로 전송한다. 
