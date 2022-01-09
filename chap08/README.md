@@ -17,7 +17,7 @@
 
 ### 2. 컴퓨터의 데이터가 전기 신호로 변환되는 과정
 
-<img src="https://user-images.githubusercontent.com/87896537/147571071-3bdd3243-09f2-4d3e-928f-8ea374e8c559.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/87896537/147571071-3bdd3243-09f2-4d3e-928f-8ea374e8c559.png" width="500" height="300">
 
 
  먼저 웹 사이트에 접속해야 하므로 **응용 계층**에서 시작한다. <br>
